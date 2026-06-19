@@ -1,0 +1,11 @@
+job_role,skills
+Data Scientist,python sql machine_learning statistics data_analysis numpy pandas visualization
+DevOps Engineer,docker kubernetes aws linux ci_cd automation bash cloud infrastructure
+Backend Developer,python java sql apis django rest databases nodejs server
+Frontend Developer,javascript html css react ui_ux typescript web_design responsive
+Machine Learning Engineer,python machine_learning tensorflow pytorch deep_learning neural_networks algorithms
+Cloud Architect,aws azure cloud docker kubernetes infrastructure security networking automation
+Cybersecurity Analyst,networking security linux firewalls ethical_hacking penetration_testing encryption
+Data Engineer,python sql spark hadoop etl pipelines databases cloud big_data
+Full Stack Developer,javascript python html css react nodejs sql apis databases
+AI Engineer,python machine_learning nlp deep_learning tensorflow apis deployment cloud
